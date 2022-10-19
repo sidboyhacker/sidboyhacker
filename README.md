@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidboyhacker
+- 👋 Hi, I’m Siddhant
 - 👀 I’m interested in hacking n stuff
 - 🌱 I’m currently learning networks
 - 💞️ I’m looking to collaborate on nothing for now but if u can help in learning stuff, it'd be great
